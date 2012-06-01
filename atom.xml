@@ -4,7 +4,7 @@
   <title><![CDATA[Mr. Andersen's blog]]></title>
   <link href="http://oyvindandersen.github.com/blog.oyvindandersen.no/atom.xml" rel="self"/>
   <link href="http://oyvindandersen.github.com/blog.oyvindandersen.no/"/>
-  <updated>2012-06-01T23:36:23+02:00</updated>
+  <updated>2012-06-01T23:38:30+02:00</updated>
   <id>http://oyvindandersen.github.com/blog.oyvindandersen.no/</id>
   <author>
     <name><![CDATA[Oyvind Andersen]]></name>
@@ -18,7 +18,7 @@
     <link href="http://oyvindandersen.github.com/blog.oyvindandersen.no/blog/2012/06/01/up-and-running-at-last-dot-dot-dot/"/>
     <updated>2012-06-01T20:42:00+02:00</updated>
     <id>http://oyvindandersen.github.com/blog.oyvindandersen.no/blog/2012/06/01/up-and-running-at-last-dot-dot-dot</id>
-    <content type="html"><![CDATA[<p>First. A big thank you to <a href="http://www.larswilhelmsen.com/">Lars Wilhelmsen</a> that showed me how to get a blog in just a few hours. It&#8217;s hosted on <a href="http://github.com">GitHub</a> using <a href="http://octopress.org">Octopress</a>.</p>
+    <content type="html"><![CDATA[<p>First. A big thank you to <a href="http://www.larswilhelmsen.com/">Lars Wilhelmsen</a> who showed me how to get a blog in just a few hours. It&#8217;s hosted on <a href="http://github.com">GitHub</a> using <a href="http://octopress.org">Octopress</a>.</p>
 
 <p>During the session a lot of git-commands, rake-stuff and some crazy voodoo made this possible. It wasn&#8217;t too difficult, and it&#8217;s easy to find documentation on how to do it. But a helping hand from someone that&#8217;s already done it helps a lot.</p>
 
