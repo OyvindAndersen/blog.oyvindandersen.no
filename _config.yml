@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://oyvindandersen.github.com/blog.oyvindandersen.no
-title: Oyvind Andersen's blog
-subtitle: A blogging framework for hackers.
-author: Oyvind Andersen
+title: Mr. Andersen's blog
+subtitle: May contain code related stuff .
+author: &Oslash;yvind Andersen
 simple_search: http://google.com/search
 description:
 
@@ -29,7 +29,7 @@ email:
 root: /
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public/blog
+destination: public
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
